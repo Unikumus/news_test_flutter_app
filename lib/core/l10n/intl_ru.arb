@@ -1,0 +1,115 @@
+{
+  "@@locale": "ru",
+  "loginWithELK": "Войти через ЕЛК",
+  "@loginWithELK": {
+    "description": "description"
+  },
+  "loginWithoutAuthorization": "Войти без авторизации",
+  "@loginWithoutAuthorization": {
+    "description": "description"
+  },
+  "skip": "Пропустить",
+  "@skip": {
+    "description": "description"
+  },
+  "onboardintTitle1": "Уникальные сервисы",
+  "@onboardintTitle1": {
+    "description": "description"
+  },
+  "onboardintTitle2": "Центр уведомлений",
+  "@onboardintTitle2": {
+    "description": "description"
+  },
+  "onboardintTitle3": "Программа мероприятий",
+  "@onboardintTitle3": {
+    "description": "description"
+  },
+  "next": "Далее",
+  "@next": {
+    "description": "description"
+  },
+  "startWork": "Начать работу",
+  "@startWork": {
+    "description": "description"
+  },
+  "onboardintText1": "Воспользуйтесь удобством специальных сервисов для участников мероприятий",
+  "@onboardintText1": {
+    "description": "description"
+  },
+  "onboardintText2": "Сразу после наступления события, мы уведомим вас сообщением на мобильном устройстве ",
+  "@onboardintText2": {
+    "description": "description"
+  },
+  "onboardintText3": "Всегда под рукой актуальная информация о программе мероприятия",
+  "@onboardintText3": {
+    "description": "description"
+  },
+  "home": "главная",
+  "@home": {
+    "description": "description"
+  },
+  "events": "мероприятия",
+  "@events": {
+    "description": "description"
+  },
+  "chat": "чат",
+  "@chat": {
+    "description": "description"
+  },
+  "myProfile": "мой профиль",
+  "@myProfile": {
+    "description": "description"
+  },
+  "news": "Новости",
+  "@news": {
+    "description": "description"
+  },
+  "aboutTheFund": "О фонде",
+  "@aboutTheFund": {
+    "description": "description"
+  },
+  "oneNews": "Новость",
+  "@oneNews": {
+    "description": "description"
+  },
+  "main": "Основное",
+  "@main": {
+    "description": "description"
+  },
+  "notificationCenter": "Центр уведомлений",
+  "@notificationCenter": {
+    "description": "description"
+  },
+  "myEvents": "Мои мероприятия",
+  "@myEvents": {
+    "description": "description"
+  },
+  "services": "Сервисы",
+  "@services": {
+    "description": "description"
+  },
+  "statusBadgeAndVehicle": "Статус бейдж и ТС",
+  "@statusBadgeAndVehicle": {
+    "description": "description"
+  },
+  "accountSettings": "Настройки аккаунта",
+  "@accountSettings": {
+    "description": "description"
+  },
+  "signOut": "Выйти из аккаунта",
+  "@signOut": {
+    "description": "description"
+  },
+  "clear": "очистить",
+  "@clear": {
+    "description": "description"
+  },
+  "eventsArchive": "архив мероприятий",
+  "@eventsArchive": {
+    "description": "description"
+  },
+  "role": "роль",
+  "@role": {
+    "description": "description"
+  }
+}

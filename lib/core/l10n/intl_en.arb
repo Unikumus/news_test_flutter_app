@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+  "loginWithELK": "Login with ELK",
+  "@loginWithELK": {
+    "description": "description"
+  },
+  "loginWithoutAuthorization": "Login without authorization",
+  "@loginWithoutAuthorization": {
+    "description": "description"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "description"
+  },
+  "onboardintTitle1": "Unique Services",
+  "@onboardintTitle1": {
+    "description": "description"
+  },
+  "onboardintTitle2": "Notification Center",
+  "@onboardintTitle2": {
+    "description": "description"
+  },
+  "onboardintTitle3": "Program of events",
+  "@onboardintTitle3": {
+    "description": "description"
+  },
+  "next": "Further",
+  "@next": {
+    "description": "description"
+  },
+  "startWork": "Get Started",
+  "@startWork": {
+    "description": "description"
+  },
+  "onboardintText1": "Take advantage of the convenience of special services for event attendees",
+  "@onboardintText1": {
+    "description": "description"
+  },
+  "onboardintText2": "Immediately after the event, we will notify you with a message on your mobile device",
+  "@onboardintText2": {
+    "description": "description"
+  },
+  "onboardintText3": "Up-to-date information about the event program is always at hand",
+  "@onboardintText3": {
+    "description": "description"
+  },
+  "home": "home",
+  "@home": {
+    "description": "description"
+  },
+  "events": "Events",
+  "@events": {
+    "description": "description"
+  },
+  "chat": "chat",
+  "@chat": {
+    "description": "description"
+  },
+  "myProfile": "My profile",
+  "@myProfile": {
+    "description": "description"
+  },
+  "news": "News",
+  "@news": {
+    "description": "description"
+  },
+  "aboutTheFund": "About the fund",
+  "@aboutTheFund": {
+    "description": "description"
+  },
+  "oneNews": "News",
+  "@oneNews": {
+    "description": "description"
+  },
+  "main": "Main",
+  "@main": {
+    "description": "description"
+  },
+  "notificationCenter": "Notification Center",
+  "@notificationCenter": {
+    "description": "description"
+  },
+  "myEvents": "My events",
+  "@myEvents": {
+    "description": "description"
+  },
+  "services": "Services",
+  "@services": {
+    "description": "description"
+  },
+  "statusBadgeAndVehicle": "Status badge and vehicle",
+  "@statusBadgeAndVehicle": {
+    "description": "description"
+  },
+  "accountSettings": "account settings",
+  "@accountSettings": {
+    "description": "description"
+  },
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "description"
+  },
+  "clear": "clear",
+  "@clear": {
+    "description": "description"
+  },
+  "eventsArchive": "events archive",
+  "@eventsArchive": {
+    "description": "description"
+  },
+  "role": "role",
+  "@role": {
+    "description": "description"
+  }
+}
